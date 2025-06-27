@@ -1,0 +1,10 @@
+.nav-link-custom {
+  transition: background 0.3s, color 0.3s;
+  border-radius: 8px;
+  padding: 8px 16px;
+}
+
+.nav-link-custom:hover {
+  background-color: #f8f9fa;
+  color: #000 !important;
+}
