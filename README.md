@@ -1,2 +1,2 @@
 # MySQL-with-crud
-CRUD eith my sql
+CRUD with my sql
